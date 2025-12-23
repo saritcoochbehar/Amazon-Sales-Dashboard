@@ -15,13 +15,13 @@ The **Excel Data Analytics Dashboard** is a simple, flexible tool designed to he
 1. Microsoft Excel 2021 
 2. Microsoft Copilot (For generating a set of questions only)
 
-## 🚀 Getting Started
+## Getting Started
 1. Download the Excel file from this repository.  
 2. Open it in Microsoft Excel (2016 or later recommended).  
 3. Load your dataset into the dashboard.  
 4. Use filters and charts to explore and analyze data.  
 
-## 🛠 Requirements
+## Requirements
 - Microsoft Excel 2016 or newer  
 - Basic knowledge of Excel navigation  
 
