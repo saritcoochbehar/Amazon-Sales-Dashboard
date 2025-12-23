@@ -25,13 +25,13 @@ The **Excel Data Analytics Dashboard** is a simple, flexible tool designed to he
 - Microsoft Excel 2016 or newer  
 - Basic knowledge of Excel navigation  
 
-## 📈 Use Cases
+## Use Cases
 - Business performance analysis  
 - Sales and marketing insights  
 - Trend discovery in raw datasets  
 - Quick reporting without complex BI tools  
 
-## 🤝 Contributing
+## Contributing
 Contributions are welcome! Feel free to fork this repo, submit issues, or create pull requests to improve the dashboard.
 
 The Excel Unguided Data Analytics Dashboard** is a simple, flexible tool designed to help users explore raw datasets without predefined models. It enables quick insights, trend discovery, and KPI tracking through interactive charts, filters, and clean visuals.
